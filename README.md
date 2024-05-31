@@ -71,6 +71,6 @@ Acknowledgements
 TensorFlow and Keras for providing powerful deep learning libraries.
 Streamlit for simplifying model deployment.
 The open-source community for continuous support and contributions.
-Contact
-For any inquiries or collaboration opportunities, please contact [Your Name] at [your.email@example.com].
+
+
 
